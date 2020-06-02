@@ -24,7 +24,6 @@ export default function Header() {
         #menu {
           text-align: left;
           margin-top: 20px;
-          margin-right: 20px;
           float: left;
           height: 100px;
           display: flex;
@@ -37,7 +36,7 @@ export default function Header() {
           list-style-type: none;
         }
         #menu a {
-          color: #00a395;
+          color: #0086FF;
           text-decoration: none;
         }
         #menu a:hover {

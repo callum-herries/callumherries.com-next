@@ -16,9 +16,6 @@ const Index = ({ posts, title, description, ...props }) => {
           margin: 1rem auto;
           font-size: 3rem;
         }
-        .ul {
-          list-style-type: none;
-        }
       `}</style>
     </>
   )

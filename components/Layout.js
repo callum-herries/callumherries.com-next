@@ -34,12 +34,14 @@ export default function Layout({ children, pageTitle, description, ...props }) {
         }
 
         a {
-          color: #00a395;
+          color: #0086FF;
         }
 
         .content {
-          padding: 2rem 20px;
+          float: left;
+          padding: 2rem 40px;
           flex: 1;
+          width: 700px;
           display: flex;
           flex-direction: column;
           justify-content: left;
