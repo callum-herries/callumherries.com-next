@@ -21,7 +21,11 @@ export default function Layout({ children, pageTitle, description, ...props }) {
           font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
             Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
             sans-serif;
+          box-sizing: border-box;
           color: #445566;
+        }
+        *, *:before, *:after {
+          box-sizing: inherit;
         }
 
         h1,
@@ -41,7 +45,7 @@ export default function Layout({ children, pageTitle, description, ...props }) {
           float: left;
           padding: 2rem 40px;
           flex: 1;
-          width: 700px;
+          max-width: 700px;
           display: flex;
           flex-direction: column;
           justify-content: left;

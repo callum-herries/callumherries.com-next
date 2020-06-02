@@ -33,9 +33,7 @@ The term life-hack was primarily used by computer experts who suffer from inform
 
 But a life-hacker is not just someone that uses life-hacks to improve their life. Like being a hacker, being a life-hacker is requires a certain attitude and set of skills.
 
-A software engineer can’t just fix a difficult bug in his code and call themselves a hacker. Likewise, you can’t read the latest article from L[ifehacker.com](http://www.lifehacker.com) and call yourself a life-hacker.
-
-Lifehacker.com is a source of practical advice on how to improve your life.
+A software engineer can’t just fix a difficult bug in his code and call themselves a hacker. Likewise, you can’t read the latest article from [Lifehacker.com](http://www.lifehacker.com) and call yourself a life-hacker.
 
 Being a life-hacker is a *way of living*. It’s about working constantly to better understand youself, specifically one’s character, behaviour, thoughts, and beliefs. It’s about knowing yourself and the world so deeply that you can solve any problem that comes your way. This is the essence of being a life-hacker — to qualify you need to develop a habit of solving your own problems in novel ways.
 

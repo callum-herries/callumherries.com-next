@@ -36,7 +36,7 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
           width: 100%;
         }
         h1 {
-          font-size: 3rem;
+          font-size: 2.5rem;
         }
         h3 {
           font-size: 2rem;
