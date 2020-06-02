@@ -14,7 +14,8 @@ const getPosts = (context) => {
       slug,
     }
   })
-  return data
+    data.reverse()
+    return data
 }
 
 export default getPosts

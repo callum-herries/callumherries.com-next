@@ -1,6 +1,6 @@
 # My Personal Blog
 
-This is my [personal blog](www.callumherries.com).
+This is my [personal blog](http://www.callumherries.com).
 
 While building it, I picked up a few technologies:
 - React
