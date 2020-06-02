@@ -34,7 +34,6 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
       <style jsx>{`
         article {
           width: 100%;
-          max-width: 1200px;
         }
         h1 {
           font-size: 3rem;
@@ -46,6 +45,7 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
           width: 100%;
         }
         .back {
+          padding-top: 10px;
           width: 100%;
           max-width: 1200px;
           color: #00a395;
